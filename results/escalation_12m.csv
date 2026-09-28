@@ -1,0 +1,10 @@
+series,model,last_month,P10_%,P50_%,P90_%,coverage_static,coverage_rolling36,coverage_rolling36_P5_P95,coverage_rolling36_h3
+ew7c_metal_doors_windows,ets_damped,2025-01,3.69,7.0,16.89,0.493,0.538,0.577,0.631
+ew7c_metal_doors_windows,rf_lags,2025-01,-0.31,2.82,11.31,0.478,0.596,0.635,0.639
+ew7c_metal_doors_windows,drift,2025-01,1.35,4.14,17.2,0.478,0.462,0.548,0.623
+ceramic_tiles,ets_damped,2025-01,-3.46,2.38,12.66,0.537,0.548,0.577,0.689
+ceramic_tiles,rf_lags,2025-01,-16.12,0.68,8.7,0.522,0.548,0.587,0.713
+ceramic_tiles,drift,2025-01,-9.91,0.71,9.41,0.537,0.51,0.558,0.705
+materials_index,ets_damped,2024-12,-2.69,1.82,6.07,0.209,0.339,0.411,0.662
+materials_index,rf_lags,2024-12,-1.87,1.72,7.92,0.163,0.25,0.304,0.595
+materials_index,drift,2024-12,1.53,3.95,9.4,0.372,0.339,0.393,0.581

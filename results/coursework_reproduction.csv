@@ -1,0 +1,5 @@
+series,model,rows_used,rows_in_file,in_sample_MSE,in_sample_R2,reported_R2
+materials_index,"LinearRegression(year, month)",11,132,14.029289256197687,0.8946093538525773,0.8946
+ceramic_tiles,"LinearRegression(year, month)",180,180,56.611351037206944,0.4197257545421097,0.4197
+ceramic_tiles,"RandomForest(time index, sin/cos month)",180,180,0.3336524055555485,0.9965800162982913,0.9965
+ew7c_metal_doors_windows,"RandomForest(time index, sin/cos month)",180,180,0.25933407777778006,0.9995997392474266,0.9996
