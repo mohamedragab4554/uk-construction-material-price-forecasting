@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.env
+*token*.txt
+# local copies of coursework, reports and notebooks are never committed
+_work/
+*.ipynb_checkpoints/
